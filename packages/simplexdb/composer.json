@@ -1,0 +1,15 @@
+{
+    "name": "xbugs/simplexdb",
+    "autoload": {
+        "psr-4": {
+            "Xbugs\\Simplexdb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Andre",
+            "email": "tandrezone@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,17 @@
+{
+    "name": "exads/tv-series",
+    "autoload": {
+        "psr-4": {
+            "Exads\\TvSeries\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Andre",
+            "email": "tandrezone@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dotenv": "^6.2"
+    }
+}
